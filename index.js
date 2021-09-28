@@ -159,3 +159,6 @@ const internQuestions = () => {
         }
     })
 }
+
+newEmployee();
+
